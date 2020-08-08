@@ -1,0 +1,31 @@
+name: Collect Latest Issues
+on: workflow_dispatch
+
+jobs:
+  findIssues:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: octokit/graphql-action@v2.x
+        id: mariner_issue_collector
+        with:
+          query: |
+            query {
+              search(query:"repo:facebook/react repo:mui-org/material-ui repo:elastic/elasticsearch repo:pandas-dev/pandas repo:typescript-eslint/typescript-eslint repo:facebook/jest repo:gatsbyjs/gatsby repo:stylelint/stylelint repo:microsoft/TypeScript repo:grpc-ecosystem/grpc-gateway repo:GoogleChrome/workbox label:\"good first issue\" created:>2020-07-06 state:open", type:ISSUE, first:100){
+                issueCount
+                edges{
+                  node{
+                    ... on Issue{
+                      title
+                      createdAt
+                      repository {
+                        nameWithOwner
+                      }
+                      url
+                    }
+                  }
+                }
+              }
+            }
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: "echo 'latest release: ${{ steps.mariner_issue_collector.outputs.data }}'"
