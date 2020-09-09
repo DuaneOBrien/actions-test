@@ -1,1 +1,297 @@
-{ "search": { "issueCount": 29, "edges": [ { "node": { "title": "[no-unnecessary-condition] Many false positives with `undefined`", "createdAt": "2020-09-07T18:54:59Z", "repository": { "nameWithOwner": "typescript-eslint/typescript-eslint" }, "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2511" } }, { "node": { "title": "[restrict-plus-operands] false positive on types like `{} & string`", "createdAt": "2020-09-07T03:22:44Z", "repository": { "nameWithOwner": "typescript-eslint/typescript-eslint" }, "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2506" } }, { "node": { "title": "DOC: index described as a \"set\" but permits duplicates -- change to multiset or list?", "createdAt": "2020-09-06T19:04:28Z", "repository": { "nameWithOwner": "pandas-dev/pandas" }, "url": "https://github.com/pandas-dev/pandas/issues/36170" } }, { "node": { "title": "[SwipeableDrawer] Avoid blocking events", "createdAt": "2020-09-05T11:28:54Z", "repository": { "nameWithOwner": "mui-org/material-ui" }, "url": "https://github.com/mui-org/material-ui/issues/22493" } }, { "node": { "title": "How is typescript automatically 'included'", "createdAt": "2020-09-02T12:16:27Z", "repository": { "nameWithOwner": "gatsbyjs/gatsby" }, "url": "https://github.com/gatsbyjs/gatsby/issues/26761" } }, { "node": { "title": "Add selector-attribute-name-disallowed-list", "createdAt": "2020-09-01T01:42:15Z", "repository": { "nameWithOwner": "stylelint/stylelint" }, "url": "https://github.com/stylelint/stylelint/issues/4915" } }, { "node": { "title": "Document reportDescriptionlessDisables flag", "createdAt": "2020-08-31T15:15:45Z", "repository": { "nameWithOwner": "stylelint/stylelint" }, "url": "https://github.com/stylelint/stylelint/issues/4912" } }, { "node": { "title": "Bad completions for string literal type as indexed access type object", "createdAt": "2020-08-30T19:22:52Z", "repository": { "nameWithOwner": "microsoft/TypeScript" }, "url": "https://github.com/microsoft/TypeScript/issues/40322" } }, { "node": { "title": "Better errors when using properties/methods from newer versions of ECMAScript", "createdAt": "2020-08-30T08:59:49Z", "repository": { "nameWithOwner": "microsoft/TypeScript" }, "url": "https://github.com/microsoft/TypeScript/issues/40320" } }, { "node": { "title": "CLN remove unnecessary trailing commas to get ready for new version of black", "createdAt": "2020-08-27T15:52:10Z", "repository": { "nameWithOwner": "pandas-dev/pandas" }, "url": "https://github.com/pandas-dev/pandas/issues/35925" } }, { "node": { "title": "[Stepper] Add slight transition", "createdAt": "2020-08-18T15:26:40Z", "repository": { "nameWithOwner": "mui-org/material-ui" }, "url": "https://github.com/mui-org/material-ui/issues/22266" } }, { "node": { "title": "Provide a quick fix to add missing enum member", "createdAt": "2020-08-14T20:59:52Z", "repository": { "nameWithOwner": "microsoft/TypeScript" }, "url": "https://github.com/microsoft/TypeScript/issues/40056" } }, { "node": { "title": "Transition is \"appearing\" by default and the documentation says that it is false as default", "createdAt": "2020-08-11T19:36:29Z", "repository": { "nameWithOwner": "mui-org/material-ui" }, "url": "https://github.com/mui-org/material-ui/issues/22162" } }, { "node": { "title": "[naming-convention] Can't use array of selectors", "createdAt": "2020-08-09T17:26:05Z", "repository": { "nameWithOwner": "typescript-eslint/typescript-eslint" }, "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2376" } }, { "node": { "title": "7.8 RestHighLevelClient - Composable Index Templates API difficult to use", "createdAt": "2020-08-05T14:46:49Z", "repository": { "nameWithOwner": "elastic/elasticsearch" }, "url": "https://github.com/elastic/elasticsearch/issues/60750" } }, { "node": { "title": "DOC: `.str.cat` output in case of `Index` object", "createdAt": "2020-08-04T21:34:20Z", "repository": { "nameWithOwner": "pandas-dev/pandas" }, "url": "https://github.com/pandas-dev/pandas/issues/35556" } }, { "node": { "title": "Add comment-pattern", "createdAt": "2020-07-31T09:58:06Z", "repository": { "nameWithOwner": "stylelint/stylelint" }, "url": "https://github.com/stylelint/stylelint/issues/4887" } }, { "node": { "title": "Remove support for `ignorePattern` as function in `jest-haste-map`", "createdAt": "2020-07-31T07:39:50Z", "repository": { "nameWithOwner": "facebook/jest" }, "url": "https://github.com/facebook/jest/issues/10342" } }, { "node": { "title": "[return-await] await should be required in catch block only when it has a finally block", "createdAt": "2020-07-30T14:02:34Z", "repository": { "nameWithOwner": "typescript-eslint/typescript-eslint" }, "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2344" } }, { "node": { "title": "[BottomNavigation] Link docs", "createdAt": "2020-07-30T12:50:07Z", "repository": { "nameWithOwner": "mui-org/material-ui" }, "url": "https://github.com/mui-org/material-ui/issues/22001" } }, { "node": { "title": "[method-signature-style] Using `property` breaks overloading for declared/global/merged types", "createdAt": "2020-07-29T22:09:38Z", "repository": { "nameWithOwner": "typescript-eslint/typescript-eslint" }, "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2340" } }, { "node": { "title": "Add camelCaseSvgKeywords to value-keyword-case and set default to false", "createdAt": "2020-07-28T20:51:11Z", "repository": { "nameWithOwner": "stylelint/stylelint" }, "url": "https://github.com/stylelint/stylelint/issues/4884" } }, { "node": { "title": "Add color-hex-alpha", "createdAt": "2020-07-26T12:23:35Z", "repository": { "nameWithOwner": "stylelint/stylelint" }, "url": "https://github.com/stylelint/stylelint/issues/4880" } }, { "node": { "title": "Error message for assigning to an imported variable is confusing", "createdAt": "2020-07-26T07:20:07Z", "repository": { "nameWithOwner": "microsoft/TypeScript" }, "url": "https://github.com/microsoft/TypeScript/issues/39751" } }, { "node": { "title": "Height of the multiline InputBase is set to full height based on no of rows property when toggling the width", "createdAt": "2020-07-17T04:12:10Z", "repository": { "nameWithOwner": "mui-org/material-ui" }, "url": "https://github.com/mui-org/material-ui/issues/21814" } }, { "node": { "title": "Flaky test: examples/internal/integration/integration_test.go:TestTimeout", "createdAt": "2020-07-16T09:54:00Z", "repository": { "nameWithOwner": "grpc-ecosystem/grpc-gateway" }, "url": "https://github.com/grpc-ecosystem/grpc-gateway/issues/1527" } }, { "node": { "title": "Smart select does not select TypeScript object type", "createdAt": "2020-07-15T16:31:49Z", "repository": { "nameWithOwner": "microsoft/TypeScript" }, "url": "https://github.com/microsoft/TypeScript/issues/39618" } }, { "node": { "title": "Setup CI infra to run DevTools tests against multiple React versions", "createdAt": "2020-07-15T15:26:15Z", "repository": { "nameWithOwner": "facebook/react" }, "url": "https://github.com/facebook/react/issues/19371" } }, { "node": { "title": "Use webpack's new logging interface", "createdAt": "2020-07-09T17:13:22Z", "repository": { "nameWithOwner": "GoogleChrome/workbox" }, "url": "https://github.com/GoogleChrome/workbox/issues/2573" } } ] } }
+{
+  "search": {
+    "issueCount": 29,
+    "edges": [
+      {
+        "node": {
+          "title": "[no-unnecessary-condition] Many false positives with `undefined`",
+          "createdAt": "2020-09-07T18:54:59Z",
+          "repository": {
+            "nameWithOwner": "typescript-eslint/typescript-eslint"
+          },
+          "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2511"
+        }
+      },
+      {
+        "node": {
+          "title": "[restrict-plus-operands] false positive on types like `{} & string`",
+          "createdAt": "2020-09-07T03:22:44Z",
+          "repository": {
+            "nameWithOwner": "typescript-eslint/typescript-eslint"
+          },
+          "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2506"
+        }
+      },
+      {
+        "node": {
+          "title": "DOC: index described as a \"set\" but permits duplicates -- change to multiset or list?",
+          "createdAt": "2020-09-06T19:04:28Z",
+          "repository": {
+            "nameWithOwner": "pandas-dev/pandas"
+          },
+          "url": "https://github.com/pandas-dev/pandas/issues/36170"
+        }
+      },
+      {
+        "node": {
+          "title": "[SwipeableDrawer] Avoid blocking events",
+          "createdAt": "2020-09-05T11:28:54Z",
+          "repository": {
+            "nameWithOwner": "mui-org/material-ui"
+          },
+          "url": "https://github.com/mui-org/material-ui/issues/22493"
+        }
+      },
+      {
+        "node": {
+          "title": "How is typescript automatically 'included'",
+          "createdAt": "2020-09-02T12:16:27Z",
+          "repository": {
+            "nameWithOwner": "gatsbyjs/gatsby"
+          },
+          "url": "https://github.com/gatsbyjs/gatsby/issues/26761"
+        }
+      },
+      {
+        "node": {
+          "title": "Add selector-attribute-name-disallowed-list",
+          "createdAt": "2020-09-01T01:42:15Z",
+          "repository": {
+            "nameWithOwner": "stylelint/stylelint"
+          },
+          "url": "https://github.com/stylelint/stylelint/issues/4915"
+        }
+      },
+      {
+        "node": {
+          "title": "Document reportDescriptionlessDisables flag",
+          "createdAt": "2020-08-31T15:15:45Z",
+          "repository": {
+            "nameWithOwner": "stylelint/stylelint"
+          },
+          "url": "https://github.com/stylelint/stylelint/issues/4912"
+        }
+      },
+      {
+        "node": {
+          "title": "Bad completions for string literal type as indexed access type object",
+          "createdAt": "2020-08-30T19:22:52Z",
+          "repository": {
+            "nameWithOwner": "microsoft/TypeScript"
+          },
+          "url": "https://github.com/microsoft/TypeScript/issues/40322"
+        }
+      },
+      {
+        "node": {
+          "title": "Better errors when using properties/methods from newer versions of ECMAScript",
+          "createdAt": "2020-08-30T08:59:49Z",
+          "repository": {
+            "nameWithOwner": "microsoft/TypeScript"
+          },
+          "url": "https://github.com/microsoft/TypeScript/issues/40320"
+        }
+      },
+      {
+        "node": {
+          "title": "CLN remove unnecessary trailing commas to get ready for new version of black",
+          "createdAt": "2020-08-27T15:52:10Z",
+          "repository": {
+            "nameWithOwner": "pandas-dev/pandas"
+          },
+          "url": "https://github.com/pandas-dev/pandas/issues/35925"
+        }
+      },
+      {
+        "node": {
+          "title": "[Stepper] Add slight transition",
+          "createdAt": "2020-08-18T15:26:40Z",
+          "repository": {
+            "nameWithOwner": "mui-org/material-ui"
+          },
+          "url": "https://github.com/mui-org/material-ui/issues/22266"
+        }
+      },
+      {
+        "node": {
+          "title": "Provide a quick fix to add missing enum member",
+          "createdAt": "2020-08-14T20:59:52Z",
+          "repository": {
+            "nameWithOwner": "microsoft/TypeScript"
+          },
+          "url": "https://github.com/microsoft/TypeScript/issues/40056"
+        }
+      },
+      {
+        "node": {
+          "title": "Transition is \"appearing\" by default and the documentation says that it is false as default",
+          "createdAt": "2020-08-11T19:36:29Z",
+          "repository": {
+            "nameWithOwner": "mui-org/material-ui"
+          },
+          "url": "https://github.com/mui-org/material-ui/issues/22162"
+        }
+      },
+      {
+        "node": {
+          "title": "[naming-convention] Can't use array of selectors",
+          "createdAt": "2020-08-09T17:26:05Z",
+          "repository": {
+            "nameWithOwner": "typescript-eslint/typescript-eslint"
+          },
+          "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2376"
+        }
+      },
+      {
+        "node": {
+          "title": "7.8 RestHighLevelClient - Composable Index Templates API difficult to use",
+          "createdAt": "2020-08-05T14:46:49Z",
+          "repository": {
+            "nameWithOwner": "elastic/elasticsearch"
+          },
+          "url": "https://github.com/elastic/elasticsearch/issues/60750"
+        }
+      },
+      {
+        "node": {
+          "title": "DOC: `.str.cat` output in case of `Index` object",
+          "createdAt": "2020-08-04T21:34:20Z",
+          "repository": {
+            "nameWithOwner": "pandas-dev/pandas"
+          },
+          "url": "https://github.com/pandas-dev/pandas/issues/35556"
+        }
+      },
+      {
+        "node": {
+          "title": "Add comment-pattern",
+          "createdAt": "2020-07-31T09:58:06Z",
+          "repository": {
+            "nameWithOwner": "stylelint/stylelint"
+          },
+          "url": "https://github.com/stylelint/stylelint/issues/4887"
+        }
+      },
+      {
+        "node": {
+          "title": "Remove support for `ignorePattern` as function in `jest-haste-map`",
+          "createdAt": "2020-07-31T07:39:50Z",
+          "repository": {
+            "nameWithOwner": "facebook/jest"
+          },
+          "url": "https://github.com/facebook/jest/issues/10342"
+        }
+      },
+      {
+        "node": {
+          "title": "[return-await] await should be required in catch block only when it has a finally block",
+          "createdAt": "2020-07-30T14:02:34Z",
+          "repository": {
+            "nameWithOwner": "typescript-eslint/typescript-eslint"
+          },
+          "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2344"
+        }
+      },
+      {
+        "node": {
+          "title": "[BottomNavigation] Link docs",
+          "createdAt": "2020-07-30T12:50:07Z",
+          "repository": {
+            "nameWithOwner": "mui-org/material-ui"
+          },
+          "url": "https://github.com/mui-org/material-ui/issues/22001"
+        }
+      },
+      {
+        "node": {
+          "title": "[method-signature-style] Using `property` breaks overloading for declared/global/merged types",
+          "createdAt": "2020-07-29T22:09:38Z",
+          "repository": {
+            "nameWithOwner": "typescript-eslint/typescript-eslint"
+          },
+          "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2340"
+        }
+      },
+      {
+        "node": {
+          "title": "Add camelCaseSvgKeywords to value-keyword-case and set default to false",
+          "createdAt": "2020-07-28T20:51:11Z",
+          "repository": {
+            "nameWithOwner": "stylelint/stylelint"
+          },
+          "url": "https://github.com/stylelint/stylelint/issues/4884"
+        }
+      },
+      {
+        "node": {
+          "title": "Add color-hex-alpha",
+          "createdAt": "2020-07-26T12:23:35Z",
+          "repository": {
+            "nameWithOwner": "stylelint/stylelint"
+          },
+          "url": "https://github.com/stylelint/stylelint/issues/4880"
+        }
+      },
+      {
+        "node": {
+          "title": "Error message for assigning to an imported variable is confusing",
+          "createdAt": "2020-07-26T07:20:07Z",
+          "repository": {
+            "nameWithOwner": "microsoft/TypeScript"
+          },
+          "url": "https://github.com/microsoft/TypeScript/issues/39751"
+        }
+      },
+      {
+        "node": {
+          "title": "Height of the multiline InputBase is set to full height based on no of rows property when toggling the width",
+          "createdAt": "2020-07-17T04:12:10Z",
+          "repository": {
+            "nameWithOwner": "mui-org/material-ui"
+          },
+          "url": "https://github.com/mui-org/material-ui/issues/21814"
+        }
+      },
+      {
+        "node": {
+          "title": "Flaky test: examples/internal/integration/integration_test.go:TestTimeout",
+          "createdAt": "2020-07-16T09:54:00Z",
+          "repository": {
+            "nameWithOwner": "grpc-ecosystem/grpc-gateway"
+          },
+          "url": "https://github.com/grpc-ecosystem/grpc-gateway/issues/1527"
+        }
+      },
+      {
+        "node": {
+          "title": "Smart select does not select TypeScript object type",
+          "createdAt": "2020-07-15T16:31:49Z",
+          "repository": {
+            "nameWithOwner": "microsoft/TypeScript"
+          },
+          "url": "https://github.com/microsoft/TypeScript/issues/39618"
+        }
+      },
+      {
+        "node": {
+          "title": "Setup CI infra to run DevTools tests against multiple React versions",
+          "createdAt": "2020-07-15T15:26:15Z",
+          "repository": {
+            "nameWithOwner": "facebook/react"
+          },
+          "url": "https://github.com/facebook/react/issues/19371"
+        }
+      },
+      {
+        "node": {
+          "title": "Use webpack's new logging interface",
+          "createdAt": "2020-07-09T17:13:22Z",
+          "repository": {
+            "nameWithOwner": "GoogleChrome/workbox"
+          },
+          "url": "https://github.com/GoogleChrome/workbox/issues/2573"
+        }
+      }
+    ]
+  }
+}
