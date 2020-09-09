@@ -31,7 +31,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
-          echo $json_output > sample-output.json
+          echo $json_output > sample-output-raw.json
+          jq . sample-output-raw.json > sample-output.json
           git config --local user.email "opensource@indeed.com"
           git config --local user.name "GitHub Action test"
           git add ./sample-output.json
