@@ -32,7 +32,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit And Push Issues Output
-      - run: |
+        run: |
           echo $json_output > sample-output-raw.json
           jq . sample-output-raw.json > sample-output.json
           git config --local user.email "opensource@indeed.com"
