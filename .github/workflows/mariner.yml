@@ -15,8 +15,7 @@ jobs:
           git add ./sample-output.json
           git commit -m "update issues"
           git push
-      - name: search for issues 
-        uses: octokit/graphql-action@v2.x
+      - uses: octokit/graphql-action@v2.x
         id: mariner_issue_collector
         with:
           query: |
@@ -39,4 +38,8 @@ jobs:
             }
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run: "echo '${{ steps.mariner_issue_collector.outputs.data }}' | jq > sample-output.json"
+      - name: pipe output to output file
+      - run: |
+          echo $json_var | jq > sample-output.json
+        env:
+          json_output: ${{ steps.mariner_issue_collector.outputs.data }}
