@@ -5,6 +5,16 @@ jobs:
   findIssues:
     runs-on: ubuntu-latest
     steps:
+
+      - name: checkout
+        uses: actions/checkout@v2
+      - run: |
+          echo 'Add value2' >> sample-output.json
+          git config --local user.email "opensource@indeed.com"
+          git config --local user.name "GitHub Action test"
+          git add ./sample-output.json
+          git commit -m "update issues"
+          git push
       - uses: octokit/graphql-action@v2.x
         id: mariner_issue_collector
         with:
