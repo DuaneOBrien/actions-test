@@ -1,6 +1,187 @@
 {
   "search": {
-    "issueCount": 0,
-    "edges": []
+    "issueCount": 18,
+    "edges": [
+      {
+        "node": {
+          "title": "[no-unnecessary-condition] Many false positives with `undefined`",
+          "createdAt": "2020-09-07T18:54:59Z",
+          "repository": {
+            "nameWithOwner": "typescript-eslint/typescript-eslint"
+          },
+          "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2511"
+        }
+      },
+      {
+        "node": {
+          "title": "[restrict-plus-operands] false positive on types like `{} & string`",
+          "createdAt": "2020-09-07T03:22:44Z",
+          "repository": {
+            "nameWithOwner": "typescript-eslint/typescript-eslint"
+          },
+          "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2506"
+        }
+      },
+      {
+        "node": {
+          "title": "DOC: index described as a \"set\" but permits duplicates -- change to multiset or list?",
+          "createdAt": "2020-09-06T19:04:28Z",
+          "repository": {
+            "nameWithOwner": "pandas-dev/pandas"
+          },
+          "url": "https://github.com/pandas-dev/pandas/issues/36170"
+        }
+      },
+      {
+        "node": {
+          "title": "[SwipeableDrawer] Avoid blocking events",
+          "createdAt": "2020-09-05T11:28:54Z",
+          "repository": {
+            "nameWithOwner": "mui-org/material-ui"
+          },
+          "url": "https://github.com/mui-org/material-ui/issues/22493"
+        }
+      },
+      {
+        "node": {
+          "title": "How is typescript automatically 'included'",
+          "createdAt": "2020-09-02T12:16:27Z",
+          "repository": {
+            "nameWithOwner": "gatsbyjs/gatsby"
+          },
+          "url": "https://github.com/gatsbyjs/gatsby/issues/26761"
+        }
+      },
+      {
+        "node": {
+          "title": "Add selector-attribute-name-disallowed-list",
+          "createdAt": "2020-09-01T01:42:15Z",
+          "repository": {
+            "nameWithOwner": "stylelint/stylelint"
+          },
+          "url": "https://github.com/stylelint/stylelint/issues/4915"
+        }
+      },
+      {
+        "node": {
+          "title": "Document reportDescriptionlessDisables flag",
+          "createdAt": "2020-08-31T15:15:45Z",
+          "repository": {
+            "nameWithOwner": "stylelint/stylelint"
+          },
+          "url": "https://github.com/stylelint/stylelint/issues/4912"
+        }
+      },
+      {
+        "node": {
+          "title": "Bad completions for string literal type as indexed access type object",
+          "createdAt": "2020-08-30T19:22:52Z",
+          "repository": {
+            "nameWithOwner": "microsoft/TypeScript"
+          },
+          "url": "https://github.com/microsoft/TypeScript/issues/40322"
+        }
+      },
+      {
+        "node": {
+          "title": "Better errors when using properties/methods from newer versions of ECMAScript",
+          "createdAt": "2020-08-30T08:59:49Z",
+          "repository": {
+            "nameWithOwner": "microsoft/TypeScript"
+          },
+          "url": "https://github.com/microsoft/TypeScript/issues/40320"
+        }
+      },
+      {
+        "node": {
+          "title": "Add TOML (https://en.wikipedia.org/wiki/TOML) support",
+          "createdAt": "2020-08-29T07:00:23Z",
+          "repository": {
+            "nameWithOwner": "FasterXML/jackson-dataformats-text"
+          },
+          "url": "https://github.com/FasterXML/jackson-dataformats-text/issues/219"
+        }
+      },
+      {
+        "node": {
+          "title": "CLN remove unnecessary trailing commas to get ready for new version of black",
+          "createdAt": "2020-08-27T15:52:10Z",
+          "repository": {
+            "nameWithOwner": "pandas-dev/pandas"
+          },
+          "url": "https://github.com/pandas-dev/pandas/issues/35925"
+        }
+      },
+      {
+        "node": {
+          "title": "[Stepper] Add slight transition",
+          "createdAt": "2020-08-18T15:26:40Z",
+          "repository": {
+            "nameWithOwner": "mui-org/material-ui"
+          },
+          "url": "https://github.com/mui-org/material-ui/issues/22266"
+        }
+      },
+      {
+        "node": {
+          "title": "src: audit and fix shift-into-sign-bit bugs",
+          "createdAt": "2020-08-18T09:49:09Z",
+          "repository": {
+            "nameWithOwner": "nodejs/node"
+          },
+          "url": "https://github.com/nodejs/node/issues/34827"
+        }
+      },
+      {
+        "node": {
+          "title": "Creating angular project with no initial app throws sb init error",
+          "createdAt": "2020-08-16T14:00:52Z",
+          "repository": {
+            "nameWithOwner": "storybookjs/storybook"
+          },
+          "url": "https://github.com/storybookjs/storybook/issues/12058"
+        }
+      },
+      {
+        "node": {
+          "title": "Provide a quick fix to add missing enum member",
+          "createdAt": "2020-08-14T20:59:52Z",
+          "repository": {
+            "nameWithOwner": "microsoft/TypeScript"
+          },
+          "url": "https://github.com/microsoft/TypeScript/issues/40056"
+        }
+      },
+      {
+        "node": {
+          "title": "Transition is \"appearing\" by default and the documentation says that it is false as default",
+          "createdAt": "2020-08-11T19:36:29Z",
+          "repository": {
+            "nameWithOwner": "mui-org/material-ui"
+          },
+          "url": "https://github.com/mui-org/material-ui/issues/22162"
+        }
+      },
+      {
+        "node": {
+          "title": "[naming-convention] Can't use array of selectors",
+          "createdAt": "2020-08-09T17:26:05Z",
+          "repository": {
+            "nameWithOwner": "typescript-eslint/typescript-eslint"
+          },
+          "url": "https://github.com/typescript-eslint/typescript-eslint/issues/2376"
+        }
+      },
+      {
+        "node": {
+          "title": "Enhance Javadoc diagram legend",
+          "createdAt": "2020-08-07T22:12:16Z",
+          "repository": {
+            "nameWithOwner": "reactor/reactor-core"
+          },
+          "url": "https://github.com/reactor/reactor-core/issues/2314"
+        }
+      }
+    ]
   }
 }
